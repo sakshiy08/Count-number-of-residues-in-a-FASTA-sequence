@@ -42,3 +42,5 @@ for j in range(39):
     for k in range(9):
         s += tot[j][k]  # Sum up the counts for the current line
     print(s, "\n")
+
+sfsjdfhskljll;cs
